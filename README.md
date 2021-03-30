@@ -1,4 +1,4 @@
 # Springboard
 Capstone &amp; Homework
 
-Welcome to my project folders containing my work that I've completed throughout Springboard's data analytics bootcamp. It contains material relating to everything from Problem Structuring, Statistics, SQL, and Python. Enjoy!
+Welcome to my project folders containing my work that I've completed throughout Springboard's Data Analytics bootcamp. It contains material related to everything from Statistics, SQL, Python, and my 2 Capstone projects.
